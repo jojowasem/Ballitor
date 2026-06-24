@@ -3,7 +3,7 @@ title: Callavera
 description: República Independente de Callavera
 ---
 
-<img src="/images/callavera-escudo.png" alt="Escudo de Callavera" style="float: left; margin-right: 40px; max-width: 200px; border-radius: 8px" />
+<img src="/Ballitor/images/callavera-escudo.png" alt="Escudo de Callavera" style="float: right; margin-left: 20px; max-width: 200px; border-radius: 8px; mix-blend-mode: multiply;" />
 
 * **Comandante:** Sir Marius Celsus Callavera
 * **População:** 1.000.000 (Humanos)
