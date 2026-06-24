@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://jojowasem.github.io',
+	base: '/Ballitor',
 	integrations: [
 		starlight({
 			title: 'Ballis Campaign Wiki',
