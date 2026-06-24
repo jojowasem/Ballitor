@@ -1,0 +1,36 @@
+---
+title: Ballis Campaign Wiki
+description: The official lore database and campaign wiki for the Ballis tabletop RPG campaign.
+template: splash
+hero:
+  tagline: Explore the history, locations, characters, and factions of the world of Ballis.
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Begin Exploring
+      link: /mundo/geography/
+      icon: right-arrow
+    - text: City of Ballis
+      link: /provincias/ballis-city/
+      icon: document
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Seções da Campanha
+
+<CardGrid stagger>
+	<Card title="Sobre o Mundo" icon="open-book">
+		Explore a geografia, história e lore geral em [Sobre o Mundo](/mundo/geography/).
+	</Card>
+	<Card title="Personagens & NPCs" icon="personal-info">
+		Conheça os heróis, vilões e figuras notáveis em [Personagens & NPCs](/personagens/elara/).
+	</Card>
+	<Card title="Casas & Organizações" icon="users">
+		Descubra as facções, guildas e ordens em [Casas & Organizações](/casas/shadow-guild/).
+	</Card>
+	<Card title="Províncias & Locais" icon="moon">
+		Explore as cidades centrais, marcos e masmorras em [Províncias & Locais](/provincias/ballis-city/).
+	</Card>
+</CardGrid>
