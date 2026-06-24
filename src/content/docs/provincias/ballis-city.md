@@ -5,7 +5,7 @@ description: República Independente de Callavera
 
 <img src="/Ballitor/public/images/callavera-escudo.png" alt="Escudo de Callavera" style="float: left; margin-right: 40px; max-width: 200px; border-radius: 8px" />
 
-* **Comandante:** Sir Marius Celsus Callavera
+* **Comandante:** Sir Marius Celsus Callavera I
 * **População:** 1.000.000 (Humanos e Anões)
 * **Pontos de Referência:** A Grande Muralha da Caveira
 * **Vassalos:** Porto Rubro, Carvão Negro, Espectra
