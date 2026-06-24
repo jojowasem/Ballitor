@@ -8,7 +8,7 @@ export default defineConfig({
 	base: '/Ballitor',
 	integrations: [
 		starlight({
-			title: 'Ballis Campaign Wiki',
+			title: 'Ballitor Campaign Wiki',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
