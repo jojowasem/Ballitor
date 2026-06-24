@@ -5,7 +5,7 @@ description: A legendary rogue, informant, and high-ranking member of the Shadow
 
 # Elara the Whispering Blade
 
-<img src="/Ballitor/public/images/elara-portrait.png" alt="Elara the Whispering Blade" style="float: right; margin-left: 20px; max-width: 250px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="/images/elara-portrait.png" alt="Elara the Whispering Blade" style="float: right; margin-left: 20px; max-width: 250px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
 * **Race:** Half-Elf
 * **Class:** Rogue (Assassin) / Warlock
