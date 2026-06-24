@@ -3,36 +3,35 @@ title: Casa Suídea
 description: República Independente de Callavera
 ---
 
-<img src="/Ballitor/images/callavera-escudo.png" alt="Escudo de Callavera" style="float: left; margin-right: 40px; max-width: 200px; border-radius: 8px" />
+<img src="/Ballitor/images/callavera-escudo.png" alt="Escudo de Callavera"/>
 
-* **Comandante:** Lelli Suídea
-* **População:** 10.000.000 (Humanos e Meio-Gigantes)
-* **Capital:** Alliança
-* **Vassalos:** Lusía, Iuvenis
+| Campo | Valor |
+|---|---|
+| Sede | Pallestri |
+| Líder | Lelli Suídea |
+| Região | Palícea |
+| Títulos | Lady de Palícea, Protetora de Avelaria, Mão do Rei |
+| Herdeiros | Nenhum |
+| Suserano | Casa Santa da Baixada do Rei |
+| Aliança | Liga de Ferro |
+| Arma ancestral | — |
+| Cavalheiros notáveis | — |
+| Religião | Devotos de São Marcus |
+| Fundadores | Irmãos Mario |
+| Fundado | 26 a.E. |
+| Lema | *Avanti, Suídi!* |
+| Honras | 3x Torneio da Liberdade dos Povos, 1x Torneio dos Povos Unidos (contestado), vencedores da Batalha |
 
 <br><br><br>
 
-## Atributos da Casa
+### Atributos da Casa
 
 | Defesa | Influência | Lei | Poder | População | Riqueza | Terras |
 | :----: | :--------: | :-: | :---: | :-------: | :-----: | :----: |
 |   +5   |     -5     | +20 |  +5   |     +0    |    +0   |   +5   |
 
 
-- Sede: Pallestri
-- Líder: Lelli Suídea
-- Região: Palícea
-- Títulos: Lady de Palícea, Protetora de Avelaria, Mão do Rei
-- Herdeiros: Nenhum
-- Suserano: Casa Santa da Baixada do Rei
-- Aliança: Liga de Ferro
-- Arma ancestral:  
-- Cavalheiros notáveis:
-- Religião: Devotos de São Marcus
-- Fundadores: Irmãos Mario
-- Fundado: 26 a.E.
-- Lema: *Avanti, Suídi!"
-- Honras: 3x Torneio da Liberdade dos Povos, 1x Torneio dos Povos Unidos (contestado), vencedores da Batalha 
+
 
 
 ## Sobre a casa
