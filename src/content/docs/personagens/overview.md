@@ -9,6 +9,6 @@ Criadores de casas, vencedores de batalhas da Era Pré Ediana
 - Edwin Arantis
 - Roma Hill
 - Adrianus IX Brasa Rubra
-
+- Zik'Oh, o Dragão Carniceiro
 
 ## 
