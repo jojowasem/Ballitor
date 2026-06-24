@@ -3,10 +3,10 @@ title: Callavera
 description: República Independente de Callavera
 ---
 
-<img src="/Ballitor/images/callavera-escudo.png" alt="Escudo de Callavera" style="float: right; margin-left: 20px; max-width: 200px; border-radius: 8px; mix-blend-mode: multiply;" />
+<img src="/images/callavera-escudo.png" alt="Escudo de Callavera" style="float: left; margin-right: 40px; max-width: 200px; border-radius: 8px" />
 
 * **Comandante:** Sir Marius Celsus Callavera
-* **População:** 1.000.000 (Humanos)
+* **População:** 1.000.000 (Humanos e Anões)
 * **Pontos de Referência:** A Grande Muralha da Caveira
 * **Vassalos:** Porto Rubro, Carvão Negro, Espectra
 
@@ -55,7 +55,7 @@ Guardizebu aceitou, foram 30 anos de glórias, cavalheiros que antes eram inexpr
 Caldera talvez seja a cidade mais moderna de Avelaria, muitos a comparam aos reinos de Eurípedes. Sir Marius Celsus I sempre foi um entusiasta da tecnologia, e muitas inovações são encontradas somente lá.
 
 ### Sistema de Trilhos
-Construídos pelos seus vássalos de **Espectra**
+Construídos pelos seus vássalos de **Espectra**, o sistema de trilhos de Cavallera é único em Avelaria e conecta o reino todo. De Cavallera à Porto Rubro, o sistema é usado para facilitação logística de exportação e até mesmo locomoção de seus habitantes.
 
 ### The Docks District
 The busiest and poorest district in the city. Smuggling is rampant here, mostly run by [The Shadow Guild](../casas/shadow-guild). [Elara](../personagens/elara) operates her spy ring from the *Drowned Rat Tavern* located near Pier 4.
